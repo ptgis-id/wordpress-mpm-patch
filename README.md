@@ -4,6 +4,6 @@ This repository contains a wrapper script that disables additional MPMs (Multi-P
 
 ## Deploying
 
-The easiest way to deploy this is by using the associated Railway template, which provides a one-lick, no-configuration deployment of WordPress with MariaDB.
+The easiest way to deploy this is by using the associated Railway template, which provides a one-click, no-configuration deployment of WordPress with MariaDB.
 
 [![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/wordpress-mpm-patched?referralCode=uxuz)
