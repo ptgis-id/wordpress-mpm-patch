@@ -10,8 +10,8 @@ The easiest way to deploy this is by using the associated Railway template, whic
 
 ## PTGIS production
 
-Railway `landing-cms` follows this fork's `main` branch. Push changes here and wait
-for the automatic deployment to succeed. The `/var/www/html` volume retains
+Deploy Railway `landing-cms` from this fork's `main` branch with automatic
+deployment enabled. Push changes here and wait for that deployment to succeed. The `/var/www/html` volume retains
 WordPress core, plugins, themes, configuration and uploads; changing the image
 updates PHP, but does not update the WordPress files already on that volume.
 
